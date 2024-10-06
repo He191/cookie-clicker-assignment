@@ -1,0 +1,8 @@
+*{
+    background-color:darkgoldenrod;
+    text-align: center;
+}
+button{
+    margin:10px;
+    cursor: pointer;
+}
