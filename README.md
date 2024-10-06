@@ -1,8 +1,6 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I fetched the data of API with useEffect method.
+I created cookieUpgrade component then import that components to parent component App.jsx.
+I created props to pass parameters to child from parent components.
+I created setInterval to execute periodic tasks with the help of useEffect.
+I used the .map() function to render lists of items dynamically.
+I created buttons and applied event handler on it to incresed cookie count,add cookie count per second value.
